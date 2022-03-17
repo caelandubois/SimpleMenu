@@ -62,6 +62,7 @@ namespace SimpleMenu
  
         public void startMenu()
         {
+            Console.clear();
             ListMenu();
             while (enabled)
             {
